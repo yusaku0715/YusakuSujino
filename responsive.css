@@ -52,7 +52,7 @@
     }
 
     .discography-wrapper{
-        height:970px;
+        height:1100px;
         padding-bottom:20px;
     }
 
@@ -63,11 +63,15 @@
 
     .album{
         width:50%;
-        height:310px;
+        height:360px;
     }
 
     .album-title {
-        font-size:24px;
+        font-size:20px;
+    }
+
+    .album-text {
+        font-size:16px;
     }
 
     .live-schedule h5{
