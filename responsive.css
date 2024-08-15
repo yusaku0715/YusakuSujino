@@ -47,6 +47,10 @@
         height:230px;
     }
 
+    .link p{
+        font-size:20px;
+    }
+
     .discography-wrapper{
         height:970px;
         padding-bottom:20px;
@@ -60,6 +64,10 @@
     .album{
         width:50%;
         height:310px;
+    }
+
+    .album-title {
+        font-size:24px;
     }
 
     .live-schedule h5{
