@@ -151,6 +151,14 @@ header{
     font-size:30px;
 }
 
+.live-schedule img{
+    opacity:0.8;
+}
+
+.live-schedule img:hover{
+    opacity:1.0;
+}
+
 .day {
     text-align:center;
 }
