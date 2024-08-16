@@ -73,6 +73,10 @@
         font-size:16px;
     }
 
+    .itunes {
+        max-width:800px;
+    }
+    
     .live-schedule span{
         font-size:14px;
     }
