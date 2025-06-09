@@ -94,6 +94,21 @@
         border-bottom: 1px solid rgb(255, 255, 255);
         font-size:18px;
     }
-
   
+}
+
+
+@media(max-width: 520px){
+    header{
+        margin:0 auto;
+        height:100px;
+    }
+
+.main{
+    width:100%;
+/*     padding:100px 150px 100px 150px; */
+    background-color:rgb(25, 0, 0);
+    color:white;
+    margin:0 auto;
+    }
 }
