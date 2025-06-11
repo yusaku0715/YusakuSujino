@@ -95,7 +95,6 @@ h2{
 	margin-left: 10%;
 	margin-right: 10%;
 	clear:left;
-/*	↑これ入れないとLinksの横にDiscography来る*/
 	}
 
 .album-title{
@@ -187,5 +186,12 @@ h2{
 	h4{
 		font-size:14px;
 	}
+
+	.container {
+	margin-left: 1%;
+	margin-right: 1%;
+	clear:left;
+	}
+
 
 }
