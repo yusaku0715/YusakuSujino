@@ -1,1 +1,127 @@
 
+@charset "UTF-8";
+
+header {
+/*	color: white;*/
+/*	float:right;*/
+	top:0px;
+	position:fixed;
+}
+
+
+.page-links a{
+	color:white;
+	text-decoration: none;
+}
+
+.liveArchive{
+	text-align:center;
+}
+
+.liveArchive th{
+	width:100px;
+}
+
+.liveArchive td{
+	width:300px;
+}
+
+h2{
+	font-size:36px;
+}
+
+h3{
+	font-size:32px;
+}
+
+h4{
+	font-size:26px;
+}
+
+
+
+header table{
+	border-collapse: collapse;
+	background-color:rgba(128,128,128, 0.9);
+	float:right;
+	font-size:26px;
+}
+
+header th{
+	border:2px white solid;
+}
+
+body {
+	/*	width:100%;*/
+	margin: 0;
+	background-color: black;
+	color: white;
+}
+
+main {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.name span {
+	font-size: 28px;
+}
+
+.container {
+	margin-left: 20%;
+	margin-right: 20%;
+	clear:left;
+/*	↑これ入れないとLinksの横にDiscography来る*/
+}
+
+p {
+	font-size: 20px;
+}
+
+.heading {
+	text-align: center;
+}
+
+.album {
+	float: left;
+	width: 33%;
+	height: 380px;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+.album img {
+	width: 200px;
+}
+
+.album-title {
+	font-weight: bold;
+}
+
+
+/*img*/
+
+.profile-img {
+	width: 100%;
+}
+
+.icon {
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+
+.itunes{
+	margin-top:50px;
+}
+
+.icon img {
+	width: 200px;
+	height: 200px;
+}
+
+.flier{
+	width:75%;
+	margin-left:10%;
+	margin-right:10%;
+}
